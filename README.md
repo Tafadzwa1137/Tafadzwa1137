@@ -9,7 +9,17 @@ In my spare time, I enjoy exploring fashion, art and travelling!!
 
 ## 🛩️ 👗 🖼️
 
-### MAIN PROJECT
+### AI GOOGLE COLAB CUDA PRACTICE
+
+
+### SECONDARY PROJECT 1
+HairApp
+
+Completing a postgraduate degree and working is very time consuming. I love it but it naturally means I don't have time to plan hairstyles and do them myself. A someone who also does them myself, it is critical that I have something to assist me in sorting out styles as well as configuring the most affordable way to complete this! I intend to algorithmically suggest to me styles that are contemporary and relevant to the events in my life.
+
+App: https://github.com/Tafadzwa1137/HairApp
+
+### PROJECT 2
 Sample Sale App
 
 I love a good bargain and a sample sale fix that can be fixed up with a thread or two. However, I don't always have time to map out what I'll be looking for at a venue with limited stock. I built this app to assist me with planning out what I'll be buying, how and when :)
@@ -18,15 +28,6 @@ Project:
 Back-end: https://github.com/Tafadzwa1137/sample-sale-back
 Front-end: https://github.com/Tafadzwa1137/sample-sale-webapp
 algorithm-script: https://github.com/Tafadzwa1137/sample-sale-script
-
-
-### SECONDARY PROJECT
-HairApp
-
-Completing a postgraduate degree and working is very time consuming. I love it but it naturally means I don't have time to plan hairstyles and do them myself. A someone who also does them myself, it is critical that I have something to assist me in sorting out styles as well as configuring the most affordable way to complete this! I intend to algorithmically suggest to me styles that are contemporary and relevant to the events in my life.
-
-App: https://github.com/Tafadzwa1137/HairApp
-
 
 ### Skills and preferred stack:
 
